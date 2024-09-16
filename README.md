@@ -43,7 +43,6 @@ O projeto foi construído com as seguintes tecnologias:
 - **HTML/CSS**: Para desenvolver a interface do usuário do chatbot.
 
 ### Diagrama da Arquitetura
-> Adicione aqui uma imagem (diagrama) que descreva a interação entre os componentes do projeto.
 
 O fluxo do chatbot segue os seguintes passos:
 1. O usuário insere uma pergunta na interface web.

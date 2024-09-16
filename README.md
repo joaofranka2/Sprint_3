@@ -1,5 +1,8 @@
 # Sprint_3 IA
 
+
+## Integrantes
+
 552421 - Flavio Sousa Vasconcelos
 
 552368 - WELLINGTON DE OLIVEIRA URCINO DA SILVA

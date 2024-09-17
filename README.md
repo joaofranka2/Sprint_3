@@ -70,11 +70,11 @@ Outros arquivos utilizados incluem:
 
 ## Passo a Passo Simplificado para Uso do Código
 
-Baixe o projeto:
+### Baixe o projeto:
 
 Clique no botão verde "Code" na página do GitHub e escolha "Download ZIP".
 Extraia o conteúdo do arquivo ZIP em uma pasta de sua escolha.
-Abra o terminal:
+### Abra o terminal:
 
 No Windows: Use "Prompt de Comando" ou "PowerShell".
 No Mac/Linux: Use o "Terminal".
@@ -84,7 +84,7 @@ Use o comando cd para entrar na pasta onde você extraiu o projeto. Exemplo
 
 cd caminho/para/a/pasta-do-projeto
 
-Inicie o chatbot:
+## Inicie o chatbot:
 
 No mesmo terminal, rode o comando:
 
@@ -97,7 +97,7 @@ Abra seu navegador (Chrome, Firefox, etc.) e digite:
 http://127.0.0.1:5000/
 
 Agora você verá a página do chatbot!
-Faça suas perguntas:
+##Faça suas perguntas:
 
 Na página do chatbot, escreva uma pergunta sobre currículos e clique no botão "Enviar".
 O chatbot responderá com dicas e conselhos sobre como melhorar seu currículo.

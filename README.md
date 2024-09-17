@@ -26,7 +26,7 @@
 ## Introdução
 O Chatbot de Assistência ao Currículo é uma aplicação web desenvolvida para fornecer orientações rápidas e precisas sobre a elaboração e melhoria de currículos. Utilizando um conjunto pré-definido de perguntas e respostas, ele permite que usuários obtenham conselhos relevantes para melhorar a qualidade de seus currículos de maneira prática e eficiente.
 
-## Objetivos do Projeto
+## Objetivos da sprint 3
 - **Demonstração do protótipo funcional**: Apresentar as funcionalidades implementadas, como resposta a perguntas e histórico de conversas.
 - **Detalhamento da arquitetura de IA**: Explicar a implementação e o funcionamento do modelo de similaridade TF-IDF.
 - **Apresentação da base de dados**: Descrever o uso do arquivo CSV para armazenar as perguntas e respostas.
